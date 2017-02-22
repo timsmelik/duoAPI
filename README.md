@@ -1,4 +1,4 @@
-duoAPI
+DuoAPI
 ======
 
 This is a Python API for accessing the DUO (Dienst Onderwijs Uitvoering Onderwijs) open data.
